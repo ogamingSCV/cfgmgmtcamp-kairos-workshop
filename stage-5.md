@@ -1,7 +1,7 @@
 # Stage 5: Deploying a multi-node cluster
 
 Docs:
-    - [Manual Multi-Node Cluster](https://kairos.io/docs/examples/multi-node/)
+  - [Manual Multi-Node Cluster](https://kairos.io/docs/examples/multi-node/)
 
 For this exercise, we will create 2 virtual machines, one will be the control plane (master) and the other one the worker. In order to allow them to communicate,
 they should be part of the same network. How you do that depends on your virtualization software / hypervisor.

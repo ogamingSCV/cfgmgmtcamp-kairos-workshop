@@ -1,7 +1,7 @@
 # Stage 6: Upgrading your cluster through Kubernetes
 
 Docs:
-    - [Kairos Operator README](https://github.com/kairos-io/kairos-operator)
+  - [Kairos Operator README](https://github.com/kairos-io/kairos-operator)
 
 For this exercise, you can use any of the cluster you created in the previous
 stages (multi-node or single-node).
