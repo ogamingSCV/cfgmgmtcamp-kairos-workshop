@@ -3,7 +3,7 @@
 Docs:
   - [Kairos Operator README](https://github.com/kairos-io/kairos-operator)
 
-For this exercise, you can use any of the cluster you created in the previous
+For this exercise, you can use any of the clusters you created in the previous
 stages (multi-node or single-node).
 
 ## Deploy the kairos operator
