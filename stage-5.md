@@ -78,8 +78,18 @@ on the previous step.
 If everything worked correctly, you should be able to see both nodes when you run
 the following on the master node:
 
+Turn into root
+
 ```bash
-export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
+sudo su -i
+```
+
+Check that Kubernetes is running (from within the VM):
+
+> [!TIP]
+> k3s configuration is located under `/etc/rancher/k3s/k3s.yaml`
+
+```bash
 kubectl get nodes
 ```
 
